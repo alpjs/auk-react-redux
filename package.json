@@ -35,7 +35,7 @@
     "watch": "pob-watch"
   },
   "dependencies": {
-    "flow-runtime": "^0.8.0",
+    "flow-runtime": "^0.9.1",
     "fody": "^7.1.0",
     "modern-browsers": "^0.2.0",
     "nightingale-logger": "^3.3.0",

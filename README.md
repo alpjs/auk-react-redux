@@ -1,5 +1,7 @@
 # alp-react-redux [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alpjs/alp-react-redux.svg)](https://greenkeeper.io/)
+
 render with react and redux in alp framework
 
 [![Dependency ci Status][dependencyci-image]][dependencyci-url]
